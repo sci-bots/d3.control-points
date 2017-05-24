@@ -70,7 +70,11 @@
   ],
   "name": "d3.control-points",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
+  "readme": "README.md",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/sci-bots/d3.control-points"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
