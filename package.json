@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "d3.control-points",
+        "scope": null,
+        "escapedName": "d3.control-points",
+        "name": "d3.control-points",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\lucaszw\\Documents\\SciBots\\libs"
+    ]
+  ],
+  "_from": "d3.control-points@latest",
+  "_id": "d3.control-points@1.0.0",
+  "_inCache": true,
+  "_location": "/d3.control-points",
+  "_nodeVersion": "7.10.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/d3.control-points-1.0.0.tgz_1495170910547_0.8092980228830129"
+  },
+  "_npmUser": {
+    "name": "sci-bots",
+    "email": "info@sci-bots.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "d3.control-points",
+    "scope": null,
+    "escapedName": "d3.control-points",
+    "name": "d3.control-points",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/d3.control-points/-/d3.control-points-1.0.0.tgz",
+  "_shasum": "ae91f9a86101aee4376ba0d6ba62a1433d2fcb50",
+  "_shrinkwrap": null,
+  "_spec": "d3.control-points",
+  "_where": "C:\\Users\\lucaszw\\Documents\\SciBots\\libs",
+  "author": {
+    "name": "Sci-Bots"
+  },
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "d3": "^4.9.1",
+    "lodash": "^4.17.4"
+  },
+  "description": "",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ae91f9a86101aee4376ba0d6ba62a1433d2fcb50",
+    "tarball": "https://registry.npmjs.org/d3.control-points/-/d3.control-points-1.0.0.tgz"
+  },
+  "license": "MIT",
+  "main": "d3.controlPoints.js",
+  "maintainers": [
+    {
+      "name": "sci-bots",
+      "email": "info@sci-bots.com"
+    }
+  ],
+  "name": "d3.control-points",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
